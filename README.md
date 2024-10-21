@@ -42,6 +42,15 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Education-MCA-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/University-Parul%20University-FFA500?style=for-the-badge&logo=university&logoColor=white" /></td>
+    <!-- <td align="center"><img src="https://img.shields.io/badge/GPA-7.81-00C853?style=for-the-badge&logo=academia&logoColor=white" /></td> -->
+    <td align="center"><img src="https://img.shields.io/badge/Pursuing-2024-2026-00C853?style=for-the-badge&logo=academia&logoColor=white" /></td>
+  </tr>
+</table>
+
 <br>
 
 <div align="center">
