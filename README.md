@@ -12,6 +12,10 @@
   <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </p>
 
+💬 *"The only way to do great work is to love what you do." - Steve Jobs*
+
+💬 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -198,6 +202,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
+</p>
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -273,6 +287,29 @@ As a lifelong learner, I'm constantly expanding my skillset:
 - 🌐 Enhancing full-stack development capabilities
 - 📊 Learning about cloud computing and serverless architectures
 - 🔒 Staying updated on the latest mobile security practices
+
+## 🙋‍♂️ Fun Facts
+
+- 💡 Passionate about science, technology, and finance
+- 🤝 Active volunteer
+- 🌍 Fluent in English, Gujarati, and Hindi
+- 🎨 Enjoy UI/UX design as a hobby
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## 📈 Visitor Count
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/your-github-username/count.svg" alt="Visitor Count" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=w
