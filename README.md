@@ -186,7 +186,7 @@
   </tr>
   <tr>
     <td>🐞 Bug Resolution</td>
-    <td>Fixed 50+ bugs for a seamless user experience</td>
+    <td>Fixed bugs for a seamless user experience</td>
   </tr>
   <tr>
     <td>📱 Responsive Design</td>
@@ -229,7 +229,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🌟 Featured Project: EventNShow
+<!-- ## 🌟 Featured Project: EventNShow
 
 <p align="center">
   <img src="https://github.com/ideepaknishadd/ideepaknishadd/raw/main/eventnshow_mockup.png" alt="EventNShow Mockup" width="70%">
@@ -258,7 +258,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
-</p>
+</p> -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -270,8 +270,8 @@
 - 🏅 Integrated advanced features like Amazon Rekognition and ML Kit Vision
 - 📜 Career Essentials in Software Development (Microsoft and LinkedIn)
 - 🎖️ Mobile App Development (Cisco thingQbator - IIT BHU)
-- 🏆 Best Innovative Project Award for EventNShow at College Tech Fest
-- 💡 Published 2 technical articles on Medium about Android development best practices
+<!-- - 🏆 Best Innovative Project Award for EventNShow at College Tech Fest
+- 💡 Published 2 technical articles on Medium about Android development best practices -->
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
