@@ -260,9 +260,9 @@
   <a href="#"><img src="https://img.shields.io/badge/-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
 </p> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
+</div> -->
 
 ## 🏆 Achievements & Certifications
 
