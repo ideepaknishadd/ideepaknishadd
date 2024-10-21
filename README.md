@@ -12,9 +12,13 @@
   <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </p>
 
-💬 *"The only way to do great work is to love what you do." - Steve Jobs*
+<p align="center">
+  <i>🚀 "The only way to do great work is to love what you do." - Steve Jobs</i>
+</p>
 
-💬 *"Code is like humor. When you have to explain it, it's bad." - Cory House*
+<p align="center">
+  <i>🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -304,8 +308,6 @@ As a lifelong learner, I'm constantly expanding my skillset:
 <p align="center">
   <img src="https://profile-counter.glitch.me/your-github-username/count.svg" alt="Visitor Count" />
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
