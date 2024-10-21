@@ -19,29 +19,65 @@
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-%233DDC84.svg?&style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20Gujarat-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-1.9%20Years-4CAF50?style=for-the-badge&logo=expertvoice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Jr.%20Android%20Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </div>
 
-```kotlin
-object DeepakNishad {
-    val location = "🏙️ Ahmedabad, Gujarat, India"
-    val currentRole = "👨‍💻 Jr. Android Developer at Communities Heritage Private Limited"
-    val experience = "⏳ 1.9 years"
-    val education = Education(
-        degree = "🎓 B.Sc. in Information Technology",
-        university = "🏛️ GLS University",
-        gpa = "📊 7.81"
-    )
-    val skills = listOf("📱 Android Development", "🚀 Kotlin", "☕ Java", "🎨 UI/UX Design", "🧠 Problem Solving")
-    val interests = listOf("📐 Mobile App Architecture", "☁️ Cloud Computing", "🤖 AI in Mobile Apps")
-    val currentlyLearning = listOf("🍃 Spring Boot", "🟩 Node.js", "💙 Flutter", "🌉 Kotlin Multiplatform")
-    val hobbies = listOf("🎨 UI/UX Design", "🤝 Volunteering", "🔍 Exploring New Technologies")
-    
-    fun getMotivation() = "💻 Code is poetry in motion 🚀"
-}
-```
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Education-B.Sc.%20IT-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/University-GLS%20University-FFA500?style=for-the-badge&logo=university&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/GPA-7.81-00C853?style=for-the-badge&logo=academia&logoColor=white" /></td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+  <h3>🛠️ Skills</h3>
+  <img src="https://img.shields.io/badge/Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF4088?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🌱 Currently Learning</h3>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🚀 Interests</h3>
+  <img src="https://img.shields.io/badge/Mobile%20App%20Architecture-FF6F61?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20in%20Mobile%20Apps-00B4D8?style=for-the-badge&logo=ai&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🎨 Hobbies</h3>
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-FF4088?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Volunteering-FF7F50?style=for-the-badge&logo=hands-helping&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploring%20New%20Technologies-00C853?style=for-the-badge&logo=devto&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB%20Motivation-Code%20is%20poetry%20in%20motion%20%F0%9F%9A%80-blueviolet?style=for-the-badge" />
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -79,15 +115,6 @@ object DeepakNishad {
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
 
-### Currently Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-</p>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -95,21 +122,64 @@ object DeepakNishad {
 ## 💼 Professional Experience
 
 ### 🏢 Communities Heritage Private Limited, Ahmedabad (08/2023 - Present)
-- 📱 Executed UI/UX design improvements, enhancing user experience by 30%
-- 🚀 Developed and integrated 5+ new features based on user feedback
-- ⚡ Optimized app performance, reducing load times by 40%
-- 🔍 Integrated Amazon Rekognition and ML Kit Vision for advanced image recognition
-- 💳 Implemented secure payment gateway solutions, increasing transaction success rate by 25%
-- 🛠️ Migrated legacy codebase to MVVM architecture, improving maintainability
-- 📊 Implemented analytics using Firebase, providing valuable user insights
-- 🔐 Enhanced app security with biometric authentication and encryption
+<table>
+  <tr>
+    <td>📱 UI/UX Improvements</td>
+    <td>Enhanced user experience by 30%</td>
+  </tr>
+  <tr>
+    <td>🚀 Feature Development</td>
+    <td>Integrated 5+ new features based on user feedback</td>
+  </tr>
+  <tr>
+    <td>⚡ Performance Optimization</td>
+    <td>Reduced app load times by 40%</td>
+  </tr>
+  <tr>
+    <td>🔍 Advanced Integrations</td>
+    <td>Implemented Amazon Rekognition and ML Kit Vision</td>
+  </tr>
+  <tr>
+    <td>💳 Payment Solutions</td>
+    <td>Increased transaction success rate by 25%</td>
+  </tr>
+  <tr>
+    <td>🛠️ Architecture Migration</td>
+    <td>Transitioned to MVVM for improved maintainability</td>
+  </tr>
+  <tr>
+    <td>📊 Analytics Implementation</td>
+    <td>Integrated Firebase for user insights</td>
+  </tr>
+  <tr>
+    <td>🔐 Security Enhancements</td>
+    <td>Added biometric authentication and encryption</td>
+  </tr>
+</table>
 
 ### 🏢 XcelTec (A CMMI Level 5 Company), Ahmedabad (03/2023 - 07/2023)
-- 🎨 Improved UI/UX design, resulting in a 20% increase in user engagement
-- ⚙️ Developed 3+ new features and optimized app performance
-- 🐞 Resolved 50+ bugs, ensuring a seamless user experience
-- 📱 Implemented responsive layouts for various screen sizes
-- 🔄 Utilized Git for version control and collaborated using Agile methodologies
+<table>
+  <tr>
+    <td>🎨 UI/UX Design</td>
+    <td>Increased user engagement by 20%</td>
+  </tr>
+  <tr>
+    <td>⚙️ Feature Development</td>
+    <td>Created 3+ new features and optimized performance</td>
+  </tr>
+  <tr>
+    <td>🐞 Bug Resolution</td>
+    <td>Fixed 50+ bugs for a seamless user experience</td>
+  </tr>
+  <tr>
+    <td>📱 Responsive Design</td>
+    <td>Implemented layouts for various screen sizes</td>
+  </tr>
+  <tr>
+    <td>🔄 Version Control</td>
+    <td>Utilized Git and Agile methodologies</td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
