@@ -162,10 +162,10 @@
     <td>💳 Payment Solutions</td>
     <td>Increased transaction success rate by 25%</td>
   </tr>
-  <tr>
+<!--   <tr>
     <td>🛠️ Architecture Migration</td>
     <td>Transitioned to MVVM for improved maintainability</td>
-  </tr>
+  </tr> -->
   <tr>
     <td>📊 Analytics Implementation</td>
     <td>Integrated Firebase for user insights</td>
