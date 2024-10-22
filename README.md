@@ -1,6 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Deepak%20Nishad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20|%20Android%20Specialist&descAlignY=51&descAlign=62" />
+  <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Deepak%20Nishad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Android%20Specialist&descAlignY=60&descAlign=50" />
 </div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Android+Developer;UI%2FUX+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
