@@ -145,24 +145,24 @@
 <table>
   <tr>
     <td>📱 UI/UX Improvements</td>
-    <td>Enhanced user experience by 30%</td>
+    <td>Enhanced user experience</td>
   </tr>
   <tr>
     <td>🚀 Feature Development</td>
-    <td>Integrated 5+ new features based on user feedback</td>
+    <td>Integrated new features based on user feedback</td>
   </tr>
   <tr>
     <td>⚡ Performance Optimization</td>
-    <td>Reduced app load times by 40%</td>
+    <td>Reduced app load times</td>
   </tr>
   <tr>
     <td>🔍 Advanced Integrations</td>
-    <td>Implemented Amazon Rekognition and ML Kit Vision</td>
+    <td>Implemented Amazon Rekognition and ML Kit Vision & etc</td>
   </tr>
-  <tr>
+ <!-- <tr>
     <td>💳 Payment Solutions</td>
     <td>Increased transaction success rate by 25%</td>
-  </tr>
+  </tr> -->
 <!--   <tr>
     <td>🛠️ Architecture Migration</td>
     <td>Transitioned to MVVM for improved maintainability</td>
@@ -181,11 +181,11 @@
 <table>
   <tr>
     <td>🎨 UI/UX Design</td>
-    <td>Increased user engagement by 20%</td>
+    <td>Increased user engagement</td>
   </tr>
   <tr>
     <td>⚙️ Feature Development</td>
-    <td>Created 3+ new features and optimized performance</td>
+    <td>Created new features and optimized performance</td>
   </tr>
   <tr>
     <td>🐞 Bug Resolution</td>
@@ -269,7 +269,7 @@
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 Successfully optimized legacy codebase, improving app efficiency by 35%
+- 🥇 Successfully optimized legacy codebase, improving app efficiency
 - 🏅 Integrated advanced features like Amazon Rekognition and ML Kit Vision
 - 📜 Career Essentials in Software Development (Microsoft and LinkedIn)
 - 🎖️ Mobile App Development (Cisco thingQbator - IIT BHU)
