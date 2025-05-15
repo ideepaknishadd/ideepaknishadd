@@ -1,13 +1,6 @@
 <div align="center">
   <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300§ion=header&text=Deepak%20Nishad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer&fontSize=40&descAlignY=60&descAlign=50" />
-</div>
-
-<div align="center">
-  <hr style="width: 50%; border: 1px solid #3DDC84; margin: 10px 0;">
-  <p style="font-size: 16px; color: #3DDC84; margin: 5px 0;">
-    Mobile App Developer | AI/ML Enthusiast | Open Source Contributor
-  </p>
+       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Deepak%20Nishad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Mobile%20App%20Developer%20%7C%20AI/ML%20Enthusiast&descAlignY=60&descAlign=50" />
 </div>
 
 <p align="center">
