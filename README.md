@@ -1,10 +1,10 @@
 <div align="center">
   <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Deepak%20Nishad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Mobile%20App%20Specialist&descAlignY=60&descAlign=50" />
+       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Deepak%20Nishad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Mobile%20App%20Enthusiast&descAlignY=60&descAlign=50" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Kotlin+Multiplatform+Expert;Jetpack+Compose+Specialist;Generative+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Kotlin+Multiplatform+Enthusiast;Jetpack+Compose+Enthusiast;Generative+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
