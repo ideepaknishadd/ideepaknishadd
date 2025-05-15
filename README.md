@@ -29,9 +29,11 @@
   <img src="https://img.shields.io/badge/Role-Mobile%20App%20Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </div>
 
-I'm a passionate **Mobile App Developer** with over **2.5 years of experience** building high-performance, user-centric Android and cross-platform applications. My expertise spans **Native Android**, **Kotlin Multiplatform**, **Flutter**, and **Jetpack Compose**, with a strong focus on clean architecture, performance optimization, and modern development practices. I’m also skilled in **Generative AI**, leveraging tools like **ChatGPT**, **Claude AI**, **DeepSeek**, **Gemini**, and **Grok** for prompt engineering and code assistance to enhance development workflows.
+<br>
 
-I thrive on solving complex problems, optimizing legacy codebases, and delivering seamless user experiences. My projects integrate advanced technologies like **Amazon Rekognition**, **ML Kit Vision**, and **PhonePe payment gateways**, and I’m always exploring new tools and frameworks to stay at the forefront of mobile development.
+I'm a passionate **Mobile App Developer** with over **2.5 years of professional experience**, dedicated to crafting high-performance, user-centric Android and cross-platform applications that delight users and solve real-world problems. My expertise spans **Native Android**, **Kotlin Multiplatform**, **Flutter**, and **Jetpack Compose**, with a strong focus on **clean architecture**, **performance optimization**, and modern development practices. I specialize in **Flutter state management** using **BLoC**, building scalable, maintainable apps that deliver seamless experiences.
+
+I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**, **Gemini**, and **Grok** for **prompt engineering** and **code assistance**, accelerating development and enhancing code quality. My career is marked by leading transformative projects, such as migrating legacy codebases to modern frameworks and integrating advanced technologies like **Amazon Rekognition**, **ML Kit Vision**, and **PhonePe payment gateways**. I thrive on turning complex challenges into elegant solutions, driven by a commitment to innovation and excellence.
 
 <br>
 
@@ -122,6 +124,7 @@ I thrive on solving complex problems, optimizing legacy codebases, and deliverin
 ### 🏢 Communities Heritage Private Limited, Ahmedabad (08/2023 - Present)
 **Jr. Android Developer**
 - **Android 14 Upgrade**: Led the migration of the Myco app to Android 14, ensuring compatibility and optimizing performance.
+- **Architecture Migration**: Helped in transitioning the app architecture from MVC to MVVM.
 - **Codebase Migration**: Spearheaded the transition from Butterknife to DataBinding, reducing app size and improving maintainability.
 - **Advanced Integrations**: Implemented **PhonePe payment gateway**, **Amazon Rekognition**, and **ML Kit Vision** for enhanced functionality.
 - **Performance Optimization**: Optimized legacy codebase, reducing unnecessary code and boosting app efficiency.
@@ -129,9 +132,9 @@ I thrive on solving complex problems, optimizing legacy codebases, and deliverin
 - **Generative AI**: Leveraged **Grok** and **ChatGPT** for code optimization and prompt engineering to streamline development.
 
 **Key Achievements**:
-- Reduced app size by 15% through codebase optimization.
-- Increased user retention by 20% with UI/UX improvements.
-- Enhanced app stability with proactive bug resolution.
+- **Codebase Optimization**: Successfully optimized the old codebase, resulting in a leaner, faster, and more efficient application.
+- **Enhanced Functionality**: Delivered new functionalities that directly contributed to user satisfaction and app performance.
+- **App Stability**: Enhanced app stability through effective bug resolution and proactive maintenance.
 
 ### 🏢 XcelTec (A CMMI Level 5 Company), Ahmedabad (03/2023 - 07/2023)
 **Jr. Android Developer**
@@ -141,13 +144,12 @@ I thrive on solving complex problems, optimizing legacy codebases, and deliverin
 - **Agile Workflow**: Utilized **Git** and Agile methodologies for efficient version control and collaboration.
 
 **Key Achievements**:
-- Improved user engagement by 10% through UI enhancements.
+- Improved user engagement through UI enhancements.
 - Delivered features ahead of schedule, maintaining high code quality.
 
 ### 🏢 StarkSouk, Ahmedabad (11/2022 - 03/2023)
 **Android Developer Intern**
 - Developed **EventNShow**, an event booking app, as a final-year college project using **Kotlin**, **Java**, and **MongoDB**.
-- Integrated **Google Maps** and payment gateways for location-based features and secure transactions.
 - Designed intuitive UI with **XML** and **Volley** for networking.
 
 <div align="center">
