@@ -14,7 +14,11 @@
 </p>
 
 <p align="center">
-  <i>💬 "Code is poetry in motion, and great apps are built with passion and precision." - Deepak Nishad</i>
+  <i>💬 "The only way to do great work is to love what you do." - Steve Jobs</i>
+</p>
+
+<p align="center">
+  <i>💬 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </p>
 
 <div align="center">
@@ -158,36 +162,56 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🌟 Featured Project: EventNShow
+## 🌟 Featured Projects
 
+### Password Manager
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=EventNShow+Mockup" alt="EventNShow Mockup" width="70%">
-</p>
-
-<p align="center">
-  <strong>EventNShow: Online Ticket Booking Platform</strong><br>
-  A cross-platform event booking app developed as my final-year college project, enabling seamless ticket purchasing and event discovery.
+  <strong>Password Manager: Secure Credential Storage</strong><br>
+  A mobile application for securely storing and managing user credentials with encryption and user-friendly interface.
 </p>
 
 <p align="center">
   <strong>Key Features:</strong><br>
-  🎫 Intuitive event browsing and ticket booking<br>
-  🔐 Secure payment integration with PhonePe<br>
-  📍 Location-based event recommendations via Google Maps<br>
-  🎨 Modern UI/UX with Jetpack Compose and XML<br>
-  📱 Cross-platform support with Kotlin Multiplatform
+  🔒 AES-256 encryption for secure storage<br>
+  📋 Password generation and strength analysis<br>
+  🔄 Cross-platform support using Kotlin Multiplatform<br>
+  🎨 Modern UI with Jetpack Compose
 </p>
 
 <p align="center">
   <strong>Tech Stack:</strong><br>
-  Frontend: **Kotlin**, **Java**, **XML**, **Jetpack Compose**, **Flutter**<br>
-  Backend: **Node.js**, **Express.js**, **MongoDB**<br>
-  APIs: **Google Maps**, **PhonePe**, **Volley**<br>
-  Tools: **Android Studio**, **VS Code**, **Postman**
+  Frontend: **Kotlin**, **Jetpack Compose**<br>
+  Backend: **Room Database**<br>
+  Tools: **Android Studio**, **Git**
 </p>
 
 <p align="center">
-  <a href="https://github.com/ideepaknishadd/EventNShow"><img src="https://img.shields.io/badge/-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
+  <a href="https://github.com/ideepaknishadd/PasswordManager"><img src="https://img.shields.io/badge/-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
+</p>
+
+### Smart Pill Reminder
+<p align="center">
+  <strong>Smart Pill Reminder: Medication Management</strong><br>
+  A cross-platform app to help users manage medication schedules with reminders and tracking.
+</p>
+
+<p align="center">
+  <strong>Key Features:</strong><br>
+  ⏰ Customizable medication reminders<br>
+  📊 Medication adherence tracking<br>
+  📱 Cross-platform support with Flutter<br>
+  🔔 Push notifications for timely alerts
+</p>
+
+<p align="center">
+  <strong>Tech Stack:</strong><br>
+  Frontend: **Flutter**, **Dart**<br>
+  Backend: **Firebase**<br>
+  Tools: **VS Code**, **Figma**
+</p>
+
+<p align="center">
+  <a href="https://github.com/ideepaknishadd/Smart-Pill-Reminder"><img src="https://img.shields.io/badge/-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
 </p>
 
 <div align="center">
@@ -217,11 +241,18 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 Optimized legacy codebase, reducing app size and improving performance by 15%.
-- 🏅 Integrated **Amazon Rekognition** and **ML Kit Vision** for advanced image recognition.
-- 📜 **Career Essentials in Software Development** (Microsoft and LinkedIn, 06/2024).
-- 🎖️ **Mobile App Development** (Cisco thingQbator - IIT BHU, 10/2022 - 11/2022).
-- 🤖 Mastered prompt engineering with **ChatGPT**, **Claude AI**, and **Grok** for code optimization.
+<p align="center">
+  <strong>Technical Milestones</strong><br>
+  🥇 Streamlined legacy codebase, achieving a 15% reduction in app size and enhanced performance.<br>
+  🏅 Pioneered integration of **Amazon Rekognition** and **ML Kit Vision**, enabling advanced image recognition capabilities.<br>
+  🤖 Mastered **prompt engineering** with **ChatGPT**, **Claude AI**, and **Grok**, optimizing code quality and development efficiency.
+</p>
+
+<p align="center">
+  <strong>Professional Certifications</strong><br>
+  📜 **Career Essentials in Software Development** by Microsoft and LinkedIn (06/2024)<br>
+  🎖️ **Mobile App Development** by Cisco thingQbator, IIT BHU (10/2022 - 11/2022)
+</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -229,7 +260,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 ## 🌱 Currently Learning
 
-- 📚 **Kotlin Multiplatform** for cross-platform app development.
+- 📚 **Kotlin Multiplatform** for seamless cross-platform app development.
 - 🤖 **Generative AI** integration in mobile apps using **DeepSeek** and **Gemini**.
 - 🌐 **Flutter** for rapid cross-platform development.
 - ☁️ **AWS** and serverless architectures for scalable backends.
