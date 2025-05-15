@@ -14,11 +14,7 @@
 </p>
 
 <p align="center">
-  <i>💬 "The only way to do great work is to love what you do." - Steve Jobs</i>
-</p>
-
-<p align="center">
-  <i>💬 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+  <i>💬 "Code is poetry in motion, and great apps are built with passion and precision." - Deepak Nishad</i>
 </p>
 
 <div align="center">
@@ -170,7 +166,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
   A mobile application for securely storing and managing user credentials with encryption and user-friendly interface.
 </p>
 
-<p align="center">
+<p align="start">
   <strong>Key Features:</strong><br>
   🔒 AES-256 encryption for secure storage<br>
   📋 Password generation and strength analysis<br>
@@ -178,40 +174,15 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
   🎨 Modern UI with Jetpack Compose
 </p>
 
-<p align="center">
+<p align="start">
   <strong>Tech Stack:</strong><br>
   Frontend: **Kotlin**, **Jetpack Compose**<br>
   Backend: **Room Database**<br>
   Tools: **Android Studio**, **Git**
 </p>
 
-<p align="center">
+<p align="start">
   <a href="https://github.com/ideepaknishadd/PasswordManager"><img src="https://img.shields.io/badge/-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
-</p>
-
-### Smart Pill Reminder
-<p align="center">
-  <strong>Smart Pill Reminder: Medication Management</strong><br>
-  A cross-platform app to help users manage medication schedules with reminders and tracking.
-</p>
-
-<p align="center">
-  <strong>Key Features:</strong><br>
-  ⏰ Customizable medication reminders<br>
-  📊 Medication adherence tracking<br>
-  📱 Cross-platform support with Flutter<br>
-  🔔 Push notifications for timely alerts
-</p>
-
-<p align="center">
-  <strong>Tech Stack:</strong><br>
-  Frontend: **Flutter**, **Dart**<br>
-  Backend: **Firebase**<br>
-  Tools: **VS Code**, **Figma**
-</p>
-
-<p align="center">
-  <a href="https://github.com/ideepaknishadd/Smart-Pill-Reminder"><img src="https://img.shields.io/badge/-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
 </p>
 
 <div align="center">
@@ -241,18 +212,11 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 ## 🏆 Achievements & Certifications
 
-<p align="center">
-  <strong>Technical Milestones</strong><br>
-  🥇 Streamlined legacy codebase, achieving a 15% reduction in app size and enhanced performance.<br>
-  🏅 Pioneered integration of **Amazon Rekognition** and **ML Kit Vision**, enabling advanced image recognition capabilities.<br>
-  🤖 Mastered **prompt engineering** with **ChatGPT**, **Claude AI**, and **Grok**, optimizing code quality and development efficiency.
-</p>
-
-<p align="center">
-  <strong>Professional Certifications</strong><br>
-  📜 **Career Essentials in Software Development** by Microsoft and LinkedIn (06/2024)<br>
-  🎖️ **Mobile App Development** by Cisco thingQbator, IIT BHU (10/2022 - 11/2022)
-</p>
+- 🥇 Optimized legacy codebase, reducing app size and improving performance by 15%.
+- 🏅 Integrated **Amazon Rekognition** and **ML Kit Vision** for advanced image recognition.
+- 📜 **Career Essentials in Software Development** (Microsoft and LinkedIn, 06/2024).
+- 🎖️ **Mobile App Development** (Cisco thingQbator - IIT BHU, 10/2022 - 11/2022).
+- 🤖 Mastered prompt engineering with **ChatGPT**, **Claude AI**, and **Grok** for code optimization.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -260,7 +224,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 ## 🌱 Currently Learning
 
-- 📚 **Kotlin Multiplatform** for seamless cross-platform app development.
+- 📚 **Kotlin Multiplatform** for cross-platform app development.
 - 🤖 **Generative AI** integration in mobile apps using **DeepSeek** and **Gemini**.
 - 🌐 **Flutter** for rapid cross-platform development.
 - ☁️ **AWS** and serverless architectures for scalable backends.
