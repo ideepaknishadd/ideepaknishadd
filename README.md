@@ -62,9 +62,9 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/XML-005C7F?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/XML-005C7F?style=for-the-badge&logo=xml&logoColor=white" alt="XML"/>
 </p>
 
 ### Frameworks & Libraries
@@ -84,10 +84,10 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/Claude%20AI-F28C38?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
-  <img src="https://img.shields.io/badge/DeepSeek-6B7280?style=for-the-badge&logo=ai&logoColor=white" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/DeepSeek-A864FF?style=for-the-badge&logo=brains&logoColor=white" alt="DeepSeek"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/Grok-00B4D8?style=for-the-badge&logo=xai&logoColor=white" alt="Grok"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-FF4088?style=for-the-badge&logo=code&logoColor=white" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" alt="Grok"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-FFB400?style=for-the-badge&logo=openai&logoColor=black" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/Code%20Helper-FFA116?style=for-the-badge&logo=codesandbox&logoColor=white" alt="Code Helper"/>
 </p>
 
@@ -102,6 +102,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
@@ -111,6 +112,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
   <img src="https://img.shields.io/badge/MVI-4285F4?style=for-the-badge&logo=architecture&logoColor=white" alt="MVI"/>
   <img src="https://img.shields.io/badge/MVC-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white" alt="MVC"/>
   <img src="https://img.shields.io/badge/MVP-FFA500?style=for-the-badge&logo=architecture&logoColor=white" alt="MVP"/>
+  <img src="https://img.shields.io/badge/BLoC-6BA4FF?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter BLoC"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-3DDC84?style=for-the-badge&logo=architecture&logoColor=white" alt="Clean Architecture"/>
   <img src="https://img.shields.io/badge/Dependency%20Injection-0095D5?style=for-the-badge&logo=code&logoColor=white" alt="Dependency Injection"/>
 </p>
