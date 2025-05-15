@@ -14,7 +14,11 @@
 </p>
 
 <p align="center">
-  <i>💬 "Code is poetry in motion, and great apps are built with passion and precision." - Deepak Nishad</i>
+  <i>💬 "The only way to do great work is to love what you do." - Steve Jobs</i>
+</p>
+
+<p align="center">
+  <i>💬 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </p>
 
 <div align="center">
