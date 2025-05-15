@@ -31,7 +31,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20Gujarat-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" />
   <img src="https://img.shields.io/badge/Experience-2.5+%20Years-4CAF50?style=for-the-badge&logo=expertvoice&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Jr.%20Android%20Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Mobile%20App%20Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </div>
 
 <br>
