@@ -1,7 +1,13 @@
+
+
 <div align="center">
   <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Deepak%20Nishad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Mobile%20App%20Developer%20%7C%20AI/ML%20Enthusiast&descAlignY=60&descAlign=50" />
+       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Deepak%20Nishad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer&descAlignY=60&descAlign=50&lineHeight=1&border=true&borderColor=black&borderWidth=1&section=header&fontAlign=50" />
+  <p align="center" style="font-size: 14px; margin-top: 20px; font-weight: bold;">
+    Mobile App Developer | AI/ML Enthusiast | Open Source Contributor
+  </p>
 </div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Kotlin+Multiplatform+Enthusiast;Jetpack+Compose+Enthusiast;Generative+AI+Enthusiast;Open+Source+Contributor;AI%2FML+Enthusiast" alt="Typing SVG" >
