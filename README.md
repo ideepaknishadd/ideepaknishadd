@@ -1,8 +1,8 @@
 <div align="center">
-  <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Deepak%20Nishad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer&descAlignY=60&descAlign=50&lineHeight=1&border=true&borderColor=black&borderWidth=1&section=header&fontAlign=50" />
+   <img width="100%" 
+       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Deepak%20Nishad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Mobile%20App%20Developer%20%7C%20AI/ML%20Enthusiast&descAlignY=60&descAlign=50" />
   <p align="center" style="font-size: 14px; margin-top: 20px; font-weight: bold;">
-    Mobile App Developer | AI/ML Enthusiast | Open Source Contributor
+   Open Source Contributor | AI/ML Enthusiast
   </p>
 </div>
 
