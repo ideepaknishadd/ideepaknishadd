@@ -180,9 +180,9 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 <p align="start">
   <strong>Tech Stack:</strong><br>
-  Frontend: **Kotlin**, **Jetpack Compose**<br>
-  Backend: **Room Database**<br>
-  Tools: **Android Studio**, **Git**
+  Frontend: Kotlin, Jetpack Compose<br>
+  Backend: Room Database<br>
+  Tools: Android Studio**, Git
 </p>
 
 <p align="start">
