@@ -161,7 +161,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 ## 🌟 Featured Projects
 
 ### Password Manager
-<p align="center">
+<p align="start">
   <strong>Password Manager: Secure Credential Storage</strong><br>
   A mobile application for securely storing and managing user credentials with encryption and user-friendly interface.
 </p>
