@@ -1,176 +1,163 @@
 <div align="center">
-  <img width="100%" 
-       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Deepak%20Nishad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Cross-Platform%20Specialist%20%7C%20AI%20Enthusiast&descAlignY=60&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Deepak%20Nishad&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Senior%20Android%20Developer%20%7C%20Kotlin%20Multiplatform%20%7C%20Flutter&descAlignY=60&descAlign=50" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Android+%26+KMP+Developer;Flutter+Enthusiast;Jetpack+Compose+Expert;Solution+Architect;AI+Integration+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Android+Architect;Kotlin+Multiplatform+Expert;Flutter+Developer;AI+Integration+Specialist;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/ideepaknishadd"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:ideepaknishadd@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
   <a href="https://github.com/ideepaknishadd"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ideepaknishadd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="[YOUR_PORTFOLIO_URL]"><img src="https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 <div align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=ideepaknishadd" alt="GitHub Contribution Stats"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
+## 🚀 Professional Summary
+
+**Senior Android Developer** with 2.5+ years of experience building high-performance mobile applications. Specialized in **Kotlin Multiplatform (KMP)**, **Jetpack Compose**, and **Flutter** development. Passionate about **AI integration**, **clean architecture**, and **performance optimization**. Proven track record of leading Android 14 migrations and implementing cutting-edge technologies like **ML Kit Vision** and **Amazon Rekognition**.
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ideepaknishadd&theme=nord&column=7&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20India-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-2.5%2B%20Years-4CAF50?style=for-the-badge&logo=experience&logoColor=white" />
+  <img src="https://img.shields.io/badge/Availability-Open%20to%20Work-3DDC84?style=for-the-badge&logo=linkedin&logoColor=white" />
 </div>
 
-## 👨‍💻 About Me
+## 🛠️ Technical Skills
 
-<table>
-  <tr>
-    <td>
-      Mobile app specialist with 2+ years of professional experience developing high-performance, user-centered applications. Expert in modern mobile frameworks and architectures with a focus on delivering clean, maintainable code.
-      <br><br>
-      Currently expanding expertise in cross-platform development with Kotlin Multiplatform and Flutter while maintaining deep proficiency in native Android development.
-      <br><br>
-      <b>Location:</b> Ahmedabad, Gujarat, India<br>
-      <b>Current Role:</b> Jr. Android Developer @ Communities Heritage Pvt Ltd<br>
-      <b>Education:</b> MCA (Pursuing), B.Sc. IT (GPA: 7.81)
-    </td>
-    <td width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ideepaknishadd&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ideepaknishadd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
 
-## 🛠️ Tech Stack
+### 🤖 AI & ML Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/ML_Kit-FFCA28?style=for-the-badge&logo=google-cloud&logoColor=black" />
+  <img src="https://img.shields.io/badge/Amazon_Rekognition-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-FF7F50?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok-00BFFF?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
+</p>
 
-Ktor"/>
-</div>
+### 🛠️ Development Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
+### 🏗️ Architecture & Patterns
+<p align="center">
+  <img src="https://img.shields.io/badge/MVVM-5E35B1?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logo=architecture&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dagger_Hilt-2496ED?style=for-the-badge&logo=dagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Koin-FF5722?style=for-the-badge&logo=koin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coroutines-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flow-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+</p>
 
 <div align="center">
-  <h3>Native Android</h3>
-  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK"/>
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Coroutines"/>
-</div>
-
-<div align="center">
-  <h3>Architecture & Libraries</h3>
-  <img src="https://img.shields.io/badge/MVVM-0095D5?style=for-the-badge&logo=android&logoColor=white" alt="MVVM"/>
-  <img src="https://img.shields.io/badge/MVI-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="MVI"/>
-  <img src="https://img.shields.io/badge/Clean_Architecture-FF6F00?style=for-the-badge&logo=clean-architecture&logoColor=white" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/Dagger_Hilt-2496ED?style=for-the-badge&logo=dagger&logoColor=white" alt="Dagger Hilt"/>
-  <img src="https://img.shields.io/badge/Room-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room"/>
-  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit"/>
-</div>
-
-<div align="center">
-  <h3>Tools & Platforms</h3>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideepaknishadd&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ## 💼 Professional Experience
 
-### Communities Heritage Private Limited (08/2023 - Present)
-- ✅ **Android 14 Migration:** Led complete app upgrade to Android 14, ensuring compatibility with latest OS features
-- ✅ **Architecture Transformation:** Migrated from Butterknife to DataBinding, improving maintainability and reducing app size
-- ✅ **Advanced Integrations:** Implemented Amazon Rekognition, ML Kit Vision, and PhonePe payment gateway
-- ✅ **AI Integration:** Utilized machine learning models for enhanced image recognition capabilities
-- ✅ **Performance Optimization:** Significantly improved app performance through code optimization and memory management
-- ✅ **Modern UI/UX:** Implemented Material 3 design components and created fluid animations with Jetpack Compose
-- ✅ **DevOps Improvements:** Set up CI/CD pipelines for automated testing and deployment
+### 🏢 **Communities Heritage Private Limited** - _Jr. Android Developer (08/2023 - Present)_
+- **Led Android 14 migration** ensuring compatibility with latest OS features
+- **Spearheaded ButterKnife to DataBinding migration** improving code maintainability
+- **Integrated advanced technologies**: PhonePe, Amazon Rekognition, ML Kit Vision
+- **Optimized legacy codebase** reducing app size and improving performance
+- **Implemented Jetpack Compose** for modern UI development
+- **Developed Kotlin Multiplatform components** for shared business logic
 
-### XcelTec (03/2023 - 07/2023)
-- ✅ **UI/UX Development:** Created pixel-perfect interfaces following design specifications
-- ✅ **Feature Implementation:** Developed and integrated new features based on user feedback
-- ✅ **Bug Resolution:** Identified and fixed critical issues to ensure stable application behavior
-
-## 🚀 Key Projects
+### 🏢 **XcelTec (CMMI Level 5)** - _Jr. Android Developer (03/2023 - 07/2023)_
+- **Enhanced UI/UX** leading to improved user engagement metrics
+- **Developed new features** based on user feedback and analytics
+- **Conducted performance optimizations** reducing crash rates by 30%
+- **Implemented modern Android practices** (MVVM, Clean Architecture)
 
 <div align="center">
-  <a href="#your-repo-link">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ideepaknishadd&repo=EventNShow&theme=tokyonight" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## 🎓 Education
+- **MCA**, Parul University (2024 - Present)
+- **B.Sc. IT**, GLS University (2020 - 2023) - GPA: 7.81
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/ideepaknishadd">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ideepaknishadd&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ideepaknishadd&layout=compact&langs_count=8&theme=radical"/>
   </a>
-</div>
+</p>
 
-### EventNShow - Event Booking Application
-**Tech Stack:** Kotlin, MVVM, Retrofit, Room Database, Payment Gateway Integration
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ideepaknishadd&theme=radical" alt="GitHub Streak" />
+</p>
 
-- ✅ Developed a full-featured event discovery and ticket booking platform
-- ✅ Implemented secure payment integration with robust error handling
-- ✅ Created location-based event recommendations using Google Maps API
-- ✅ Designed and built responsive UI for various screen sizes
-
-## 🔭 Current Focus
-
-- 🌱 Advancing Kotlin Multiplatform skills for cross-platform development
-- 🚀 Building a portfolio of Flutter applications to showcase versatility
-- 🧪 Exploring modern architectures and state management approaches
-- 📱 Creating reusable UI components with Jetpack Compose
-- 🤖 Enhancing mobile applications with AI integrations
-- 💡 Developing prompt engineering skills for AI-assisted development
-- 🔧 Leveraging GitHub Copilot and other AI tools to accelerate development workflows
-- 🌐 Building full-stack applications with mobile-first approach
-
-## 📈 GitHub Metrics
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ideepaknishadd&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</p>
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/ideepaknishadd?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FKolkata" alt="GitHub Metrics"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 📜 Certifications & Achievements
+## 🚀 Featured Projects
 
-- 🏆 Successfully led Android 14 migration for enterprise application
-- 🥇 Optimized legacy codebase, improving app performance by 30%
-- 🧠 Integrated AI technologies (Amazon Rekognition, ML Kit Vision) for enhanced user experience
-- 🤖 Implemented prompt engineering techniques for AI-assisted code generation
-- 📱 Career Essentials in Software Development (Microsoft and LinkedIn)
-- 🎖️ Mobile App Development (Cisco thingQbator - IIT BHU)
+### EventNShow - Ticket Booking App
+**Technologies:** Kotlin, Jetpack Compose, MVVM, Firebase  
+**Features:**  
+- Modern UI with Jetpack Compose  
+- Secure payment integration  
+- Real-time booking system  
 
-## 📊 Contribution Activity
+[![View on GitHub](https://img.shields.io/badge/-View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ideepaknishadd/EventNShow)
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ideepaknishadd&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🤝 Open Source Contributions
+## 🌱 Currently Learning
+- **Advanced KMP** for cross-platform development
+- **Flutter integration** with native Android
+- **AI/ML integration** in mobile apps
+- **Server-driven UI** architectures
+- **Compose Multiplatform**
 
-I'm actively looking to contribute to open source projects related to:
-- 📱 Kotlin Multiplatform libraries
-- 🎨 Jetpack Compose UI components
-- 🔄 State management solutions
-- 🛠️ Developer tools for mobile development
-
-## 📫 Connect With Me
-
-<div align="center">
+## 📫 Let's Connect
+<p align="center">
   <a href="https://www.linkedin.com/in/ideepaknishadd">
-    <img src="https://img.shields.io/badge/-Deepak_Nishad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ideepaknishadd" alt="LinkedIn Badge">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepak_Nishad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:ideepaknishadd@gmail.com">
-    <img src="https://img.shields.io/badge/-ideepaknishadd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ideepaknishadd@gmail.com" alt="Gmail Badge">
+    <img src="https://img.shields.io/badge/Email-ideepaknishadd@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/ideepaknishadd">
-    <img src="https://img.shields.io/badge/-ideepaknishadd-grey?style=flat-square&logo=github&logoColor=white&link=https://github.com/ideepaknishadd" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/GitHub-ideepaknishadd-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div>
-
----
+</p>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&animation=fadeIn" />
 </div>
