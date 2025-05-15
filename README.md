@@ -182,7 +182,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
   <strong>Tech Stack:</strong><br>
   Frontend: Kotlin, Jetpack Compose<br>
   Backend: Room Database<br>
-  Tools: Android Studio**, Git
+  Tools: Android Studio, Git
 </p>
 
 <p align="start">
