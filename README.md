@@ -182,103 +182,126 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 ### Communities Heritage Private Limited
 
-#### MyCo - Enterprise Digital Platform
+#### <img src="https://play-lh.googleusercontent.com/7RVRyhtUaQew0da7nKP0jKTIy8eTUNwjqGptMUoGsHHIMHPJzZs_ZEWbnq-ZZBnGxg=w480-h960-rw" width="25" height="25"> MyCo - Enterprise Digital Platform
+
 <p align="start">
-  A comprehensive mobile application designed to create interconnected enterprise ecosystems, enhancing professional culture and business processes.
+  A comprehensive digital platform designed for enterprises to create interconnected ecosystems that enhance professional culture and business processes. The app facilitates connectivity, decision-making, communication, and knowledge sharing across organizations.
 </p>
 
 <p align="start">
   <strong>Key Features:</strong><br>
-  📱 Member Directory with Intercom functionality<br>
-  📋 Digital Notice Board & Document Management<br>
-  📅 Event Planning and Management<br>
-  🏢 Front Office & Vendor Management<br>
-  ⏱️ Employee Attendance with Geo-fencing & Selfie Verification<br>
-  📍 Real-time Location Tracking<br>
-  🔄 Leave Management System<br>
-  💻 Work-from-home Request System<br>
-  💰 Salary Management & Asset Tracking
+  👥 Member Directory with Intercom functionality<br>
+  📋 Digital Notice Board for organization-wide announcements<br>
+  📅 Event Planning and Management system<br>
+  🏢 Front Office and Vendor Management<br>
+  🆘 Emergency Contact directory<br>
+  📁 Document Management system<br>
+  📊 Internal Polling and Survey tools<br>
+  ⏱️ Employee attendance with geofencing and selfie verification<br>
+  📍 Real-time employee location tracking<br>
+  🗓️ Shift creation and assignment<br>
+  🏠 Work-from-home request management<br>
+  💼 Asset management system
 </p>
 
 <p align="start">
-  <strong>Tech Stack:</strong> Kotlin, Java, MVVM, DataBinding, Amazon Rekognition, ML Kit Vision, PhonePe Integration
+  <strong>Tech Stack:</strong><br>
+  Frontend: Kotlin, XML, Jetpack Compose<br>
+  Backend: REST APIs, Room Database<br>
+  Integrations: PhonePe payment gateway<br>
+  Architecture: MVVM (Migrated from MVC)
 </p>
 
 <p align="start">
-  <a href="https://play.google.com/store/apps/details?id=com.mycompany.fhpl"><img src="https://img.shields.io/badge/-View%20on%20Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="View on Play Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.mycompany.fhpl&hl=en_IN"><img src="https://img.shields.io/badge/-Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
 </p>
 
-#### Face Attendance MyCo
-<p align="start">
-  A staff attendance solution utilizing cutting-edge face recognition technology, designed for seamless integration with the MyCo Mobile App.
-</p>
+#### <img src="https://play-lh.googleusercontent.com/PZHxUQu8bHiaoFj_-Rjf76FS0piR_bJ9j3D1czZlNS9Os7xYNK93H3u52Puoe_OhvKaA=w480-h960-rw" width="25" height="25"> Face Attendance MyCo
 
 <p align="start">
-  <strong>Key Features:</strong><br>
-  🔍 Advanced Facial Recognition<br>
-  🔄 Automatic Sync with MyCo App<br>
-  🏗️ Works in various environments (office & construction sites)<br>
-  ⚡ Easy Setup and Configuration
-</p>
-
-<p align="start">
-  <strong>Tech Stack:</strong> Kotlin, Amazon Rekognition, ML Kit Vision, MVVM
-</p>
-
-<p align="start">
-  <a href="https://play.google.com/store/apps/details?id=com.mycompany.attendance"><img src="https://img.shields.io/badge/-View%20on%20Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="View on Play Store"></a>
-</p>
-
-#### MyCo Admin
-<p align="start">
-  A dedicated application for MyCo administrators, providing enhanced management capabilities and system control.
+  A staff attendance solution utilizing advanced face recognition technology. The application is designed to work seamlessly in various business environments, from offices to construction sites.
 </p>
 
 <p align="start">
   <strong>Key Features:</strong><br>
-  ⚙️ Advanced Admin Controls<br>
-  👥 User Management<br>
-  📊 System Analytics & Monitoring<br>
-  🔐 Security Management
+  👤 Cutting-edge facial recognition for attendance<br>
+  🔄 Deep integration with MyCo mobile app<br>
+  ⚡ Automatic synchronization of attendance data<br>
+  🏗️ Versatile functionality across diverse work environments
 </p>
 
 <p align="start">
-  <strong>Tech Stack:</strong> Kotlin, Java, MVVM
+  <strong>Tech Stack:</strong><br>
+  Frontend: Kotlin, XML<br>
+  Backend: REST APIs<br>
+  AI Integration: Amazon Rekognition, ML Kit Vision<br>
+  Architecture: MVVM
 </p>
 
 <p align="start">
-  <a href="https://play.google.com/store/apps/details?id=com.mycompany.appadmin"><img src="https://img.shields.io/badge/-View%20on%20Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="View on Play Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.mycompany.attendance"><img src="https://img.shields.io/badge/-Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
+</p>
+
+#### <img src="https://play-lh.googleusercontent.com/TKcv2nkZS5n9Pa7RWVfZ5qWGSKb4UHdiPi1d9iw4rLkcCQA5JAR5G-T9PzRX3xHKpCKZ=w480-h960-rw" width="25" height="25"> MyCo Admin
+
+<p align="start">
+  An essential application for MyCo administrators that provides comprehensive management tools for monitoring and controlling the MyCo ecosystem.
+</p>
+
+<p align="start">
+  <strong>Key Features:</strong><br>
+  🔐 Administrator-specific controls and dashboards<br>
+  📊 Analytics and reporting tools<br>
+  👥 User management capabilities<br>
+  ⚙️ System configuration options
+</p>
+
+<p align="start">
+  <strong>Tech Stack:</strong><br>
+  Frontend: Kotlin, XML<br>
+  Backend: REST APIs<br>
+  Architecture: MVVM
+</p>
+
+<p align="start">
+  <a href="https://play.google.com/store/apps/details?id=com.mycompany.appadmin"><img src="https://img.shields.io/badge/-Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
 </p>
 
 ### XcelTec
 
-#### ChefBites - Food Delivery Platform
+#### <img src="https://play-lh.googleusercontent.com/T-Ux0QCImvYBExMjT-mIymTFFOoMwVzOFTfsKYQm9vGQrn6PFMUJBTCinE2-SPrnxw=w480-h960-rw" width="25" height="25"> ChefBites - Food Delivery App
+
 <p align="start">
-  A comprehensive food delivery application connecting users with over 50 local and national restaurants in one platform.
+  A comprehensive food delivery platform that allows users to order from over 50 local and national restaurants through a single, convenient interface.
 </p>
 
 <p align="start">
   <strong>Key Features:</strong><br>
-  🍔 Multi-restaurant ordering in a single delivery<br>
-  🚚 Real-time order tracking<br>
-  🍕 Diverse cuisine options<br>
-  ⏱️ Fast delivery & pickup options<br>
-  🔍 Advanced restaurant search
+  🍔 Access to 50+ local and national restaurants<br>
+  🍲 Multiple cuisine options in one platform<br>
+  🚚 Doorstep delivery service<br>
+  🛍️ Pickup options for convenience<br>
+  🗺️ Real-time order tracking
 </p>
 
 <p align="start">
-  <strong>Tech Stack:</strong> Kotlin, Java, MVVM, Retrofit, Room
+  <strong>Tech Stack:</strong><br>
+  Frontend: Kotlin, XML<br>
+  Backend: REST APIs, Firebase<br>
+  Architecture: MVVM
 </p>
 
 <p align="start">
-  <a href="https://play.google.com/store/apps/details?id=com.user.chefbites"><img src="https://img.shields.io/badge/-View%20on%20Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="View on Play Store"></a>
+  <a href="https://play.google.com/store/apps/details?id=com.user.chefbites"><img src="https://img.shields.io/badge/-Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"></a>
 </p>
 
 ### Personal Projects
 
 #### Password Manager
+
 <p align="start">
-  A secure mobile application for storing and managing user credentials with advanced encryption and a user-friendly interface.
+  <strong>Secure Credential Storage Application</strong><br>
+  A mobile application for securely storing and managing user credentials with strong encryption and a user-friendly interface.
 </p>
 
 <p align="start">
@@ -301,20 +324,26 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 </p>
 
 #### EventNShow
+
 <p align="start">
-  An event booking application developed as a final-year college project, providing a platform for browsing and booking various events.
+  <strong>Event Booking Platform</strong><br>
+  Developed as a final-year college project, this application allows users to discover, book, and manage event tickets across various categories.
 </p>
 
 <p align="start">
   <strong>Key Features:</strong><br>
-  🎭 Browse and search events by category<br>
-  🎟️ Secure ticket booking and management<br>
-  📅 Event calendar and reminders<br>
-  👤 User profile and booking history
+  🎭 Browse events across multiple categories<br>
+  🎟️ Seamless booking experience<br>
+  💳 Secure payment integration<br>
+  📅 Event reminders and notifications
 </p>
 
 <p align="start">
-  <strong>Tech Stack:</strong> Kotlin, Java, MongoDB, Volley, XML
+  <strong>Tech Stack:</strong><br>
+  Frontend: Kotlin, Java, XML<br>
+  Backend: MongoDB<br>
+  Networking: Volley<br>
+  Tools: Android Studio, Git
 </p>
 
 <div align="center">
