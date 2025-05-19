@@ -6,8 +6,6 @@
   </p>
 </div>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Kotlin+Multiplatform+Enthusiast;Jetpack+Compose+Enthusiast;Generative+AI+Enthusiast;Open+Source+Contributor;AI%2FML+Enthusiast" alt="Typing SVG" >
 </p>
@@ -67,6 +65,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 ## 🛠️ Tech Stack & Skills
 
 ### Programming Languages
+
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -77,6 +76,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 </p>
 
 ### Frameworks & Libraries
+
 <p align="center">
   <img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android SDK"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose"/>
@@ -90,6 +90,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 </p>
 
 ### Generative AI & Prompt Engineering
+
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/Claude%20AI-F28C38?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI"/>
@@ -101,6 +102,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 </p>
 
 ### Tools & Platforms
+
 <p align="center">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
@@ -116,6 +118,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 </p>
 
 ### Architectures & Methodologies
+
 <p align="center">
   <img src="https://img.shields.io/badge/MVVM-00C853?style=for-the-badge&logo=architecture&logoColor=white" alt="MVVM"/>
   <img src="https://img.shields.io/badge/MVI-4285F4?style=for-the-badge&logo=architecture&logoColor=white" alt="MVI"/>
@@ -133,103 +136,149 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 ## 💼 Professional Experience
 
 ### 🏢 Communities Heritage Private Limited, Ahmedabad (08/2023 - Present)
+
 **Jr. Android Developer**
-- **Android 14 Upgrade**: Led the migration of the Myco app to Android 14, ensuring compatibility and optimizing performance.
-- **Architecture Migration**: Helped in transitioning the app architecture from MVC to MVVM.
-- **Codebase Migration**: Spearheaded the transition from Butterknife to DataBinding, reducing app size and improving maintainability.
-- **Advanced Integrations**: Implemented **PhonePe payment gateway**, **Amazon Rekognition**, and **ML Kit Vision** for enhanced functionality.
-- **Performance Optimization**: Optimized legacy codebase, reducing unnecessary code and boosting app efficiency.
-- **UI/UX Enhancements**: Designed intuitive interfaces using **Jetpack Compose** and XML, improving user engagement.
-- **Generative AI**: Leveraged **Grok** and **ChatGPT** for code optimization and prompt engineering to streamline development.
+
+* **Android 14 Upgrade**: Led the migration of the Myco app to Android 14, ensuring compatibility and optimizing performance.
+* **Architecture Migration**: Helped in transitioning the app architecture from MVC to MVVM.
+* **Codebase Migration**: Spearheaded the transition from Butterknife to DataBinding, reducing app size and improving maintainability.
+* **Advanced Integrations**: Implemented **PhonePe payment gateway**, **Amazon Rekognition**, and **ML Kit Vision** for enhanced functionality.
+* **Performance Optimization**: Optimized legacy codebase, reducing unnecessary code and boosting app efficiency.
+* **UI/UX Enhancements**: Designed intuitive interfaces using **Jetpack Compose** and XML, improving user engagement.
+* **Generative AI**: Leveraged **Grok** and **ChatGPT** for code optimization and prompt engineering to streamline development.
 
 **Key Achievements**:
-- **Codebase Optimization**: Successfully optimized the old codebase, resulting in a leaner, faster, and more efficient application.
-- **Enhanced Functionality**: Delivered new functionalities that directly contributed to user satisfaction and app performance.
-- **App Stability**: Enhanced app stability through effective bug resolution and proactive maintenance.
 
-**Live Projects**:
-
-<table>
-  <tr>
-    <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/FHPL-Healthcare-00C853?style=for-the-badge&logo=google-play&logoColor=white" alt="FHPL"/>
-    </td>
-    <td>
-      <strong><a href="https://play.google.com/store/apps/details?id=com.mycompany.fhpl">FHPL Mobile App</a></strong><br>
-      A comprehensive healthcare solution for Family Health Plan Limited users, featuring policy management, claims processing, hospital network access, and health tracking tools. Implemented secure authentication, real-time notifications, and integrated with healthcare APIs for a seamless user experience.<br>
-      <strong>Tech Stack:</strong> Kotlin, Java, MVVM, Room, Retrofit, Dagger Hilt, Firebase
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Attendance-Enterprise-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Attendance"/>
-    </td>
-    <td>
-      <strong><a href="https://play.google.com/store/apps/details?id=com.mycompany.attendance">MyCompany Attendance</a></strong><br>
-      An enterprise-grade attendance management system with geofencing, facial recognition (using ML Kit Vision), and real-time reporting capabilities. Implemented location-based check-in/out, biometric verification, leave management, and analytics dashboard.<br>
-      <strong>Tech Stack:</strong> Kotlin, MVVM, Room Database, ML Kit Vision, Google Maps API, Dagger Hilt
-    </td>
-  </tr>
-  <tr>
-    <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/Admin-Dashboard-FFA500?style=for-the-badge&logo=google-play&logoColor=white" alt="Admin"/>
-    </td>
-    <td>
-      <strong><a href="https://play.google.com/store/apps/details?id=com.mycompany.appadmin">MyCompany Admin</a></strong><br>
-      A powerful administrative dashboard for enterprise management, featuring comprehensive employee management, real-time analytics, report generation, and system configuration. Integrated with AWS services for data synchronization and secure access control.<br>
-      <strong>Tech Stack:</strong> Kotlin, Clean Architecture, Retrofit, Room, AWS Integration, Firebase
-    </td>
-  </tr>
-</table>
+* **Codebase Optimization**: Successfully optimized the old codebase, resulting in a leaner, faster, and more efficient application.
+* **Enhanced Functionality**: Delivered new functionalities that directly contributed to user satisfaction and app performance.
+* **App Stability**: Enhanced app stability through effective bug resolution and proactive maintenance.
 
 ### 🏢 XcelTec (A CMMI Level 5 Company), Ahmedabad (03/2023 - 07/2023)
+
 **Jr. Android Developer**
-- **Feature Development**: Built and integrated new features based on user feedback, using **Kotlin** and **Java**.
-- **UI/UX Design**: Improved interface functionality with responsive layouts for diverse screen sizes.
-- **Bug Resolution**: Troubleshot and fixed critical bugs, ensuring a seamless user experience.
-- **Agile Workflow**: Utilized **Git** and Agile methodologies for efficient version control and collaboration.
+
+* **Feature Development**: Built and integrated new features based on user feedback, using **Kotlin** and **Java**.
+* **UI/UX Design**: Improved interface functionality with responsive layouts for diverse screen sizes.
+* **Bug Resolution**: Troubleshot and fixed critical bugs, ensuring a seamless user experience.
+* **Agile Workflow**: Utilized **Git** and Agile methodologies for efficient version control and collaboration.
 
 **Key Achievements**:
-- Improved user engagement through UI enhancements.
-- Delivered features ahead of schedule, maintaining high code quality.
 
-**Live Projects**:
-
-<table>
-  <tr>
-    <td width="20%" align="center">
-      <img src="https://img.shields.io/badge/ChefBites-Food%20Delivery-FF6B6B?style=for-the-badge&logo=google-play&logoColor=white" alt="ChefBites"/>
-    </td>
-    <td>
-      <strong><a href="https://play.google.com/store/apps/details?id=com.user.chefbites">ChefBites</a></strong><br>
-      An innovative food delivery platform connecting users with local chefs and restaurants. Implemented real-time order tracking, secure payment gateway integration, personalized recommendations using machine learning algorithms, and a sophisticated review system.<br>
-      <strong>Key Contributions:</strong>
-      <ul>
-        <li>Redesigned the checkout flow, increasing conversion rates by 18%</li>
-        <li>Implemented real-time location tracking using Google Maps API</li>
-        <li>Integrated multiple payment gateways for seamless transactions</li>
-        <li>Optimized app performance, reducing loading times by 35%</li>
-      </ul>
-      <strong>Tech Stack:</strong> Kotlin, MVVM Architecture, Retrofit, Room Database, Google Maps API, Firebase
-    </td>
-  </tr>
-</table>
+* Improved user engagement through UI enhancements.
+* Delivered features ahead of schedule, maintaining high code quality.
 
 ### 🏢 StarkSouk, Ahmedabad (11/2022 - 03/2023)
+
 **Android Developer Intern**
-- Developed **EventNShow**, an event booking app, as a final-year college project using **Kotlin**, **Java**, and **MongoDB**.
-- Designed intuitive UI with **XML** and **Volley** for networking.
+
+* Developed **EventNShow**, an event booking app, as a final-year college project using **Kotlin**, **Java**, and **MongoDB**.
+* Designed intuitive UI with **XML** and **Volley** for networking.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🌟 Featured Projects
+## 🚀 Project Experience
 
-### Password Manager
+### Communities Heritage Private Limited
+
+#### MyCo - Enterprise Digital Platform
 <p align="start">
-  <strong>Password Manager: Secure Credential Storage</strong><br>
-  A mobile application for securely storing and managing user credentials with encryption and user-friendly interface.
+  A comprehensive mobile application designed to create interconnected enterprise ecosystems, enhancing professional culture and business processes.
+</p>
+
+<p align="start">
+  <strong>Key Features:</strong><br>
+  📱 Member Directory with Intercom functionality<br>
+  📋 Digital Notice Board & Document Management<br>
+  📅 Event Planning and Management<br>
+  🏢 Front Office & Vendor Management<br>
+  ⏱️ Employee Attendance with Geo-fencing & Selfie Verification<br>
+  📍 Real-time Location Tracking<br>
+  🔄 Leave Management System<br>
+  💻 Work-from-home Request System<br>
+  💰 Salary Management & Asset Tracking
+</p>
+
+<p align="start">
+  <strong>Tech Stack:</strong> Kotlin, Java, MVVM, DataBinding, Amazon Rekognition, ML Kit Vision, PhonePe Integration
+</p>
+
+<p align="start">
+  <a href="https://play.google.com/store/apps/details?id=com.mycompany.fhpl"><img src="https://img.shields.io/badge/-View%20on%20Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="View on Play Store"></a>
+</p>
+
+#### Face Attendance MyCo
+<p align="start">
+  A staff attendance solution utilizing cutting-edge face recognition technology, designed for seamless integration with the MyCo Mobile App.
+</p>
+
+<p align="start">
+  <strong>Key Features:</strong><br>
+  🔍 Advanced Facial Recognition<br>
+  🔄 Automatic Sync with MyCo App<br>
+  🏗️ Works in various environments (office & construction sites)<br>
+  ⚡ Easy Setup and Configuration
+</p>
+
+<p align="start">
+  <strong>Tech Stack:</strong> Kotlin, Amazon Rekognition, ML Kit Vision, MVVM
+</p>
+
+<p align="start">
+  <a href="https://play.google.com/store/apps/details?id=com.mycompany.attendance"><img src="https://img.shields.io/badge/-View%20on%20Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="View on Play Store"></a>
+</p>
+
+#### MyCo Admin
+<p align="start">
+  A dedicated application for MyCo administrators, providing enhanced management capabilities and system control.
+</p>
+
+<p align="start">
+  <strong>Key Features:</strong><br>
+  ⚙️ Advanced Admin Controls<br>
+  👥 User Management<br>
+  📊 System Analytics & Monitoring<br>
+  🔐 Security Management
+</p>
+
+<p align="start">
+  <strong>Tech Stack:</strong> Kotlin, Java, MVVM
+</p>
+
+<p align="start">
+  <a href="https://play.google.com/store/apps/details?id=com.mycompany.appadmin"><img src="https://img.shields.io/badge/-View%20on%20Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="View on Play Store"></a>
+</p>
+
+### XcelTec
+
+#### ChefBites - Food Delivery Platform
+<p align="start">
+  A comprehensive food delivery application connecting users with over 50 local and national restaurants in one platform.
+</p>
+
+<p align="start">
+  <strong>Key Features:</strong><br>
+  🍔 Multi-restaurant ordering in a single delivery<br>
+  🚚 Real-time order tracking<br>
+  🍕 Diverse cuisine options<br>
+  ⏱️ Fast delivery & pickup options<br>
+  🔍 Advanced restaurant search
+</p>
+
+<p align="start">
+  <strong>Tech Stack:</strong> Kotlin, Java, MVVM, Retrofit, Room
+</p>
+
+<p align="start">
+  <a href="https://play.google.com/store/apps/details?id=com.user.chefbites"><img src="https://img.shields.io/badge/-View%20on%20Play%20Store-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="View on Play Store"></a>
+</p>
+
+### Personal Projects
+
+#### Password Manager
+<p align="start">
+  A secure mobile application for storing and managing user credentials with advanced encryption and a user-friendly interface.
 </p>
 
 <p align="start">
@@ -249,6 +298,23 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 <p align="start">
   <a href="https://github.com/ideepaknishadd/PasswordManager"><img src="https://img.shields.io/badge/-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
+</p>
+
+#### EventNShow
+<p align="start">
+  An event booking application developed as a final-year college project, providing a platform for browsing and booking various events.
+</p>
+
+<p align="start">
+  <strong>Key Features:</strong><br>
+  🎭 Browse and search events by category<br>
+  🎟️ Secure ticket booking and management<br>
+  📅 Event calendar and reminders<br>
+  👤 User profile and booking history
+</p>
+
+<p align="start">
+  <strong>Tech Stack:</strong> Kotlin, Java, MongoDB, Volley, XML
 </p>
 
 <div align="center">
@@ -278,11 +344,11 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 Optimized legacy codebase, reducing app size and improving performance by 15%.
-- 🏅 Integrated **Amazon Rekognition** and **ML Kit Vision** for advanced image recognition.
-- 📜 **Career Essentials in Software Development** (Microsoft and LinkedIn, 06/2024).
-- 🎖️ **Mobile App Development** (Cisco thingQbator - IIT BHU, 10/2022 - 11/2022).
-- 🤖 Mastered prompt engineering with **ChatGPT**, **Claude AI**, and **Grok** for code optimization.
+* 🥇 Optimized legacy codebase, reducing app size and improving performance by 15%.
+* 🏅 Integrated **Amazon Rekognition** and **ML Kit Vision** for advanced image recognition.
+* 📜 **Career Essentials in Software Development** (Microsoft and LinkedIn, 06/2024).
+* 🎖️ **Mobile App Development** (Cisco thingQbator - IIT BHU, 10/2022 - 11/2022).
+* 🤖 Mastered prompt engineering with **ChatGPT**, **Claude AI**, and **Grok** for code optimization.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -290,11 +356,11 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 ## 🌱 Currently Learning
 
-- 📚 **Kotlin Multiplatform** for cross-platform app development.
-- 🤖 **Generative AI** integration in mobile apps using **DeepSeek** and **Gemini**.
-- 🌐 **Flutter** for rapid cross-platform development.
-- ☁️ **AWS** and serverless architectures for scalable backends.
-- 🔒 Advanced mobile security practices.
+* 📚 **Kotlin Multiplatform** for cross-platform app development.
+* 🤖 **Generative AI** integration in mobile apps using **DeepSeek** and **Gemini**.
+* 🌐 **Flutter** for rapid cross-platform development.
+* ☁️ **AWS** and serverless architectures for scalable backends.
+* 🔒 Advanced mobile security practices.
 
 ## 📫 Let's Connect
 
@@ -306,10 +372,10 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 ## 🙋‍♂️ Fun Facts
 
-- 💡 Passionate about **science**, **technology**, and **finance**.
-- 🤝 Active volunteer at **All India Rural Empowerment Program**.
-- 🌍 Fluent in **English**, **Gujarati**, and **Hindi**.
-- 🎨 Avid **UI/UX designer** using **Figma** in my spare time.
+* 💡 Passionate about **science**, **technology**, and **finance**.
+* 🤝 Active volunteer at **All India Rural Empowerment Program**.
+* 🌍 Fluent in **English**, **Gujarati**, and **Hindi**.
+* 🎨 Avid **UI/UX designer** using **Figma** in my spare time.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
