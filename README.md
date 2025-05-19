@@ -147,6 +147,41 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 - **Enhanced Functionality**: Delivered new functionalities that directly contributed to user satisfaction and app performance.
 - **App Stability**: Enhanced app stability through effective bug resolution and proactive maintenance.
 
+**Live Projects**:
+
+<table>
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/FHPL-Healthcare-00C853?style=for-the-badge&logo=google-play&logoColor=white" alt="FHPL"/>
+    </td>
+    <td>
+      <strong><a href="https://play.google.com/store/apps/details?id=com.mycompany.fhpl">FHPL Mobile App</a></strong><br>
+      A comprehensive healthcare solution for Family Health Plan Limited users, featuring policy management, claims processing, hospital network access, and health tracking tools. Implemented secure authentication, real-time notifications, and integrated with healthcare APIs for a seamless user experience.<br>
+      <strong>Tech Stack:</strong> Kotlin, Java, MVVM, Room, Retrofit, Dagger Hilt, Firebase
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Attendance-Enterprise-4285F4?style=for-the-badge&logo=google-play&logoColor=white" alt="Attendance"/>
+    </td>
+    <td>
+      <strong><a href="https://play.google.com/store/apps/details?id=com.mycompany.attendance">MyCompany Attendance</a></strong><br>
+      An enterprise-grade attendance management system with geofencing, facial recognition (using ML Kit Vision), and real-time reporting capabilities. Implemented location-based check-in/out, biometric verification, leave management, and analytics dashboard.<br>
+      <strong>Tech Stack:</strong> Kotlin, MVVM, Room Database, ML Kit Vision, Google Maps API, Dagger Hilt
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/Admin-Dashboard-FFA500?style=for-the-badge&logo=google-play&logoColor=white" alt="Admin"/>
+    </td>
+    <td>
+      <strong><a href="https://play.google.com/store/apps/details?id=com.mycompany.appadmin">MyCompany Admin</a></strong><br>
+      A powerful administrative dashboard for enterprise management, featuring comprehensive employee management, real-time analytics, report generation, and system configuration. Integrated with AWS services for data synchronization and secure access control.<br>
+      <strong>Tech Stack:</strong> Kotlin, Clean Architecture, Retrofit, Room, AWS Integration, Firebase
+    </td>
+  </tr>
+</table>
+
 ### 🏢 XcelTec (A CMMI Level 5 Company), Ahmedabad (03/2023 - 07/2023)
 **Jr. Android Developer**
 - **Feature Development**: Built and integrated new features based on user feedback, using **Kotlin** and **Java**.
@@ -157,6 +192,28 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 **Key Achievements**:
 - Improved user engagement through UI enhancements.
 - Delivered features ahead of schedule, maintaining high code quality.
+
+**Live Projects**:
+
+<table>
+  <tr>
+    <td width="20%" align="center">
+      <img src="https://img.shields.io/badge/ChefBites-Food%20Delivery-FF6B6B?style=for-the-badge&logo=google-play&logoColor=white" alt="ChefBites"/>
+    </td>
+    <td>
+      <strong><a href="https://play.google.com/store/apps/details?id=com.user.chefbites">ChefBites</a></strong><br>
+      An innovative food delivery platform connecting users with local chefs and restaurants. Implemented real-time order tracking, secure payment gateway integration, personalized recommendations using machine learning algorithms, and a sophisticated review system.<br>
+      <strong>Key Contributions:</strong>
+      <ul>
+        <li>Redesigned the checkout flow, increasing conversion rates by 18%</li>
+        <li>Implemented real-time location tracking using Google Maps API</li>
+        <li>Integrated multiple payment gateways for seamless transactions</li>
+        <li>Optimized app performance, reducing loading times by 35%</li>
+      </ul>
+      <strong>Tech Stack:</strong> Kotlin, MVVM Architecture, Retrofit, Room Database, Google Maps API, Firebase
+    </td>
+  </tr>
+</table>
 
 ### 🏢 StarkSouk, Ahmedabad (11/2022 - 03/2023)
 **Android Developer Intern**
