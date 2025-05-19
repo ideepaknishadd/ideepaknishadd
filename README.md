@@ -168,12 +168,10 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 #### MyCo - Enterprise Digital Platform
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.mycompany.fhpl&hl=en_IN">
-    <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80"/>
-  </a>
+  <img src="https://play-lh.googleusercontent.com/ajvQm5nLAjpH_Pp01kTKvVNEZgb91z0rY0NkZPUXgxGUFoGZdJrNr9PcG0YVYCuQcA=w240-h480-rw" alt="MyCo App" height="80"/>
 </p>
 
-MyCo is a comprehensive digital platform designed for enterprises to create interconnected ecosystems that enhance professional culture and business processes. The app streamlines connectivity, decision-making, communication, and knowledge sharing.
+A comprehensive digital platform enabling enterprises to create interconnected ecosystems that enhance professional culture and business processes. MyCo streamlines connectivity, decision-making, communication, and knowledge sharing.
 
 **Key Features:**
 - Employee directory with built-in intercom functionality
@@ -190,11 +188,15 @@ MyCo is a comprehensive digital platform designed for enterprises to create inte
 - Template-based work reporting
 - Asset management system
 
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.mycompany.fhpl&hl=en_IN">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60"/>
+  </a>
+</p>
+
 #### Face Attendance MyCo
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.mycompany.attendance">
-    <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80"/>
-  </a>
+  <img src="https://play-lh.googleusercontent.com/iyuGnl3XTgNjn5ZCxEpJPnEZO2QbR3NmYJYtLtsVMRDLFpKxACTb6V8mHdTCFOwjNzk=w240-h480-rw" alt="Face Attendance MyCo" height="80"/>
 </p>
 
 A cutting-edge staff attendance solution utilizing advanced face recognition technology. Designed for seamless operation in any business environment, from offices to construction sites.
@@ -206,25 +208,33 @@ A cutting-edge staff attendance solution utilizing advanced face recognition tec
 - Works in various lighting conditions and environments
 - Simple and intuitive user interface
 
-#### MyCo Admin
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.mycompany.appadmin">
-    <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80"/>
+  <a href="https://play.google.com/store/apps/details?id=com.mycompany.attendance">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60"/>
   </a>
 </p>
 
+#### MyCo Admin
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/Cp4t2D-yxWW5xwyyH3xZuxyMsWr5YU2c5YGBdLJEOLvLKFY63RwwXxpTExxFF6Cdbas=w240-h480-rw" alt="MyCo Admin" height="80"/>
+</p>
+
 An essential companion app for MyCo administrators, providing advanced management capabilities and oversight of the entire MyCo ecosystem from a mobile device.
+
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.mycompany.appadmin">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60"/>
+  </a>
+</p>
 
 ### XcelTec
 
 #### ChefBites - Food Delivery
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.user.chefbites">
-    <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80"/>
-  </a>
+  <img src="https://play-lh.googleusercontent.com/GhiUBvLP31_y51wIuemNz0mHr2Wqx0vGcWfOgEpMY7_RFHEv41L87rF_xCZmOdlEww=w240-h480-rw" alt="ChefBites" height="80"/>
 </p>
 
-ChefBites is a comprehensive food delivery application that connects users with over 50 local and national restaurants. The platform offers convenient ordering from a variety of cuisines with options for both delivery and pickup.
+A comprehensive food delivery application connecting users with over 50 local and national restaurants. The platform offers convenient ordering from a variety of cuisines with options for both delivery and pickup.
 
 **Key Features:**
 - Multi-restaurant food ordering system
@@ -233,25 +243,32 @@ ChefBites is a comprehensive food delivery application that connects users with 
 - User-friendly interface for browsing and ordering
 - Secure payment processing
 
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.user.chefbites">
+    <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60"/>
+  </a>
+</p>
+
 ### Personal Projects
 
 #### Password Manager
 
-<p align="start">
-  <strong>Password Manager: Secure Credential Storage</strong><br>
-  A mobile application for securely storing and managing user credentials with encryption and user-friendly interface.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ideepaknishadd/PasswordManager/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Password Manager" height="80"/>
 </p>
 
-<p align="start">
-  <strong>Key Features:</strong><br>
-  🔒 AES-256 encryption for secure storage<br>
-  📋 Password generation and strength analysis<br>
-  🔄 Cross-platform support using Kotlin Multiplatform<br>
-  🎨 Modern UI with Jetpack Compose
-</p>
+A secure mobile application for storing and managing user credentials with strong encryption and a user-friendly interface.
 
-<p align="start">
-  <a href="https://github.com/ideepaknishadd/PasswordManager"><img src="https://img.shields.io/badge/-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
+**Key Features:**
+- AES-256 encryption for secure storage
+- Password generation and strength analysis
+- Cross-platform support using Kotlin Multiplatform
+- Modern UI with Jetpack Compose
+
+<p align="center">
+  <a href="https://github.com/ideepaknishadd/PasswordManager">
+    <img src="https://img.shields.io/badge/-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
+  </a>
 </p>
 
 <div align="center">
