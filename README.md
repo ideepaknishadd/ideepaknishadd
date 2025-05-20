@@ -234,8 +234,8 @@ An essential companion app for MyCo administrators, providing advanced managemen
 ### At, XcelTec Interactive Private Limited
 
 #### ChefBites - Food Delivery
-<p align="start">
-  <img src="https://www.chefbites.com/assets-website/img/logo_web.png" alt="ChefBites" height="80" style="filter: brightness(0) invert(1);" />
+<p align="start">   
+   <img src="https://play-lh.googleusercontent.com/VntJYE9ZOKAtaDREU6-qps5m4_UNJcf7QVKLDMmJwRkJ2HItkXjWOOiE6VtRYNFr6x6J=w480-h960-rw" alt="ChefBites" height="80"/> 
 </p>
 
 A comprehensive food delivery application connecting users with over 50 local and national restaurants. The platform offers convenient ordering from a variety of cuisines with options for both delivery and pickup.
