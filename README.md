@@ -167,7 +167,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 ### Communities Heritage Private Limited
 
 #### MyCo - Enterprise Digital Platform
-<p align="center">
+<p align="start">
   <img src="https://play-lh.googleusercontent.com/ajvQm5nLAjpH_Pp01kTKvVNEZgb91z0rY0NkZPUXgxGUFoGZdJrNr9PcG0YVYCuQcA=w240-h480-rw" alt="MyCo App" height="80"/>
 </p>
 
@@ -188,14 +188,14 @@ A comprehensive digital platform enabling enterprises to create interconnected e
 - Template-based work reporting
 - Asset management system
 
-<p align="center">
+<p align="start">
   <a href="https://play.google.com/store/apps/details?id=com.mycompany.fhpl&hl=en_IN">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60"/>
   </a>
 </p>
 
 #### Face Attendance MyCo
-<p align="center">
+<p align="start">
   <img src="https://play-lh.googleusercontent.com/iyuGnl3XTgNjn5ZCxEpJPnEZO2QbR3NmYJYtLtsVMRDLFpKxACTb6V8mHdTCFOwjNzk=w240-h480-rw" alt="Face Attendance MyCo" height="80"/>
 </p>
 
@@ -208,7 +208,7 @@ A cutting-edge staff attendance solution utilizing advanced face recognition tec
 - Works in various lighting conditions and environments
 - Simple and intuitive user interface
 
-<p align="center">
+<p align="start">
   <a href="https://play.google.com/store/apps/details?id=com.mycompany.attendance">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60"/>
   </a>
@@ -221,7 +221,7 @@ A cutting-edge staff attendance solution utilizing advanced face recognition tec
 
 An essential companion app for MyCo administrators, providing advanced management capabilities and oversight of the entire MyCo ecosystem from a mobile device.
 
-<p align="center">
+<p align="start">
   <a href="https://play.google.com/store/apps/details?id=com.mycompany.appadmin">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60"/>
   </a>
@@ -230,8 +230,8 @@ An essential companion app for MyCo administrators, providing advanced managemen
 ### XcelTec
 
 #### ChefBites - Food Delivery
-<p align="center">
-  <img src="https://play-lh.googleusercontent.com/GhiUBvLP31_y51wIuemNz0mHr2Wqx0vGcWfOgEpMY7_RFHEv41L87rF_xCZmOdlEww=w240-h480-rw" alt="ChefBites" height="80"/>
+<p align="start">
+  <img src="https://www.chefbites.com/assets-website/img/logo_web.png" alt="ChefBites" height="80"/>
 </p>
 
 A comprehensive food delivery application connecting users with over 50 local and national restaurants. The platform offers convenient ordering from a variety of cuisines with options for both delivery and pickup.
@@ -243,7 +243,7 @@ A comprehensive food delivery application connecting users with over 50 local an
 - User-friendly interface for browsing and ordering
 - Secure payment processing
 
-<p align="center">
+<p align="start">
   <a href="https://play.google.com/store/apps/details?id=com.user.chefbites">
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="60"/>
   </a>
@@ -253,7 +253,7 @@ A comprehensive food delivery application connecting users with over 50 local an
 
 #### Password Manager
 
-<p align="center">
+<p align="start">
   <img src="https://raw.githubusercontent.com/ideepaknishadd/PasswordManager/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Password Manager" height="80"/>
 </p>
 
@@ -265,7 +265,7 @@ A secure mobile application for storing and managing user credentials with stron
 - Cross-platform support using Kotlin Multiplatform
 - Modern UI with Jetpack Compose
 
-<p align="center">
+<p align="start">
   <a href="https://github.com/ideepaknishadd/PasswordManager">
     <img src="https://img.shields.io/badge/-View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
   </a>
