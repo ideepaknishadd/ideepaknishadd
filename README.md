@@ -164,7 +164,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 ## 🌟 Project Experience
 
-### Communities Heritage Private Limited
+### At, Communities Heritage Private Limited
 
 #### MyCo - Enterprise Digital Platform
 <p align="start">
@@ -227,11 +227,15 @@ An essential companion app for MyCo administrators, providing advanced managemen
   </a>
 </p>
 
-### XcelTec
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+### At, XcelTec Interactive Private Limited
 
 #### ChefBites - Food Delivery
 <p align="start">
-  <img src="https://www.chefbites.com/assets-website/img/logo_web.png" alt="ChefBites" height="80"/>
+  <img src="https://www.chefbites.com/assets-website/img/logo_web.png" alt="ChefBites" height="80" style="filter: brightness(0) invert(1);" />
 </p>
 
 A comprehensive food delivery application connecting users with over 50 local and national restaurants. The platform offers convenient ordering from a variety of cuisines with options for both delivery and pickup.
