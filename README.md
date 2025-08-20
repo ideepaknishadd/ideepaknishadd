@@ -168,7 +168,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 #### MyCo - Enterprise Digital Platform
 <p align="start">
-   <img src="https://play-lh.googleusercontent.com/5XawxqnhndRzQPhGR4U3d0oNJrwDeKYmMX88W7X1d6oXaXTYTZuQCYgqoYAeic3Eq9c=w480-h960-rw" alt="MyCo App" height="80"/>
+   <img src="https://play-lh.googleusercontent.com/Dolt_O_0GVLUikIvh0CumhhYsPD-phhDGLcLlAJtMAcMpihSXGmSHu66mwuHyy8l2vL8Gzv92lS8Wb4BQ3a4-g=w240-h480="MyCo App" height="80"/>
 </p>
 
 A comprehensive digital platform enabling enterprises to create interconnected ecosystems that enhance professional culture and business processes. MyCo streamlines connectivity, decision-making, communication, and knowledge sharing.
@@ -196,7 +196,7 @@ A comprehensive digital platform enabling enterprises to create interconnected e
 
 #### Face Attendance MyCo
 <p align="start">
-  <img src="https://play-lh.googleusercontent.com/952ZdjmHu3br9_LxlhKq7MZj0q62pPCiRswOU98-D7CJxr4Oz4LhamSXTiTKjfSXb580=w480-h960-rw" alt="Face Attendance MyCo" height="80" style="border-radius: 16px;"/>
+  <img src="https://play-lh.googleusercontent.com/3eYpxjVn47BRvEVTGiHv01UlFd5-PzOksgmCVMfh7McvYx_-PxWaoVQRjM4J-Lsfvw=w240-h480" alt="Face Attendance MyCo" height="80" style="border-radius: 16px;"/>
 </p>
 
 A cutting-edge staff attendance solution utilizing advanced face recognition technology. Designed for seamless operation in any business environment, from offices to construction sites.
@@ -216,7 +216,7 @@ A cutting-edge staff attendance solution utilizing advanced face recognition tec
 
 #### MyCo Admin
 <p align="start">
-  <img src="https://play-lh.googleusercontent.com/5ylAPIUXX3qF9B1YFU5vyXbWzqDWQcAn6Gb4Z_oZhOEYW-pw044NKtcrdXXYw2mDwQ=w480-h960-rw" alt="MyCo Admin" height="80" style="border-radius: 16px;"/>
+  <img src="https://play-lh.googleusercontent.com/VgRJXZ9IQorx3QP5zq7dH6nWKdJ_OI90nVk8bD8MP8gPqvK3aeUGyyKZg0qep2yIpZM=w240-h480" alt="MyCo Admin" height="80" style="border-radius: 16px;"/>
 </p>
 
 An essential companion app for MyCo administrators, providing advanced management capabilities and oversight of the entire MyCo ecosystem from a mobile device.
