@@ -168,7 +168,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 #### MyCo - Enterprise Digital Platform
 <p align="start">
-   <img src="https://play-lh.googleusercontent.com/Dolt_O_0GVLUikIvh0CumhhYsPD-phhDGLcLlAJtMAcMpihSXGmSHu66mwuHyy8l2vL8Gzv92lS8Wb4BQ3a4-g=w240-h480="MyCo App" height="80"/>
+   <img src="https://play-lh.googleusercontent.com/Dolt_O_0GVLUikIvh0CumhhYsPD-phhDGLcLlAJtMAcMpihSXGmSHu66mwuHyy8l2vL8Gzv92lS8Wb4BQ3a4-g=w240-h480" alt="MyCo App" height="80"/>
 </p>
 
 A comprehensive digital platform enabling enterprises to create interconnected ecosystems that enhance professional culture and business processes. MyCo streamlines connectivity, decision-making, communication, and knowledge sharing.
