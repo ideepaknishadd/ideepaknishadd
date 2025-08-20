@@ -166,7 +166,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 ### At, Communities Heritage Private Limited
 
-#### MyCo - Enterprise Digital Platform
+#### MyCo - Your Business App
 <p align="start">
    <img src="https://play-lh.googleusercontent.com/Dolt_O_0GVLUikIvh0CumhhYsPD-phhDGLcLlAJtMAcMpihSXGmSHu66mwuHyy8l2vL8Gzv92lS8Wb4BQ3a4-g=w240-h480" alt="MyCo App" height="80"/>
 </p>
@@ -194,7 +194,7 @@ A comprehensive digital platform enabling enterprises to create interconnected e
   </a>
 </p>
 
-#### Face Attendance MyCo
+#### Lens MyCo : Face Attendance
 <p align="start">
   <img src="https://play-lh.googleusercontent.com/3eYpxjVn47BRvEVTGiHv01UlFd5-PzOksgmCVMfh7McvYx_-PxWaoVQRjM4J-Lsfvw=w240-h480" alt="Face Attendance MyCo" height="80" style="border-radius: 16px;"/>
 </p>
@@ -214,7 +214,7 @@ A cutting-edge staff attendance solution utilizing advanced face recognition tec
   </a>
 </p>
 
-#### MyCo Admin
+#### Admin MyCo
 <p align="start">
   <img src="https://play-lh.googleusercontent.com/VgRJXZ9IQorx3QP5zq7dH6nWKdJ_OI90nVk8bD8MP8gPqvK3aeUGyyKZg0qep2yIpZM=w240-h480" alt="MyCo Admin" height="80" style="border-radius: 16px;"/>
 </p>
