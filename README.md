@@ -32,13 +32,13 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Location-Ahmedabad%2C%20Gujarat-FF6B6B?style=for-the-badge&logo=google-maps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Experience-2.5+%20Years-4CAF50?style=for-the-badge&logo=expertvoice&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-3.5+%20Years-4CAF50?style=for-the-badge&logo=expertvoice&logoColor=white" />
   <img src="https://img.shields.io/badge/Role-Mobile%20App%20Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </div>
 
 <br>
 
-I'm a passionate **Mobile App Developer** with over **2.5 years of professional experience**, dedicated to crafting high-performance, user-centric Android and cross-platform applications that delight users and solve real-world problems. My expertise spans **Native Android**, **Kotlin Multiplatform**, **Flutter**, and **Jetpack Compose**, with a strong focus on **clean architecture**, **performance optimization**, and modern development practices. I specialize in **Flutter state management** using **BLoC**, building scalable, maintainable apps that deliver seamless experiences.
+I'm a passionate **Mobile App Developer** with over **3.5 years of professional experience**, dedicated to crafting high-performance, user-centric Android and cross-platform applications that delight users and solve real-world problems. My expertise spans **Native Android**, **Kotlin Multiplatform**, **Flutter**, and **Jetpack Compose**, with a strong focus on **clean architecture**, **performance optimization**, and modern development practices. I specialize in **Flutter state management** using **BLoC**, building scalable, maintainable apps that deliver seamless experiences.
 
 I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**, **Gemini**, and **Grok** for **prompt engineering** and **code assistance**, accelerating development and enhancing code quality. My career is marked by leading transformative projects, such as migrating legacy codebases to modern frameworks and integrating advanced technologies like **Amazon Rekognition**, **ML Kit Vision**, and **PhonePe payment gateways**. I thrive on turning complex challenges into elegant solutions, driven by a commitment to innovation and excellence.
 
@@ -48,7 +48,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Education-MCA-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/University-Parul%20University-FFA500?style=for-the-badge&logo=university&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Pursuing-2024--2026-00C853?style=for-the-badge&logo=academia&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/CGPA-8.89-00C853?style=for-the-badge&logo=academia&logoColor=white" /></td>
   </tr>
 </table>
 
@@ -56,7 +56,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Education-B.Sc.%20IT-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/University-GLS%20University-FFA500?style=for-the-badge&logo=university&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/GPA-7.81-00C853?style=for-the-badge&logo=academia&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/CGPA-7.81-00C853?style=for-the-badge&logo=academia&logoColor=white" /></td>
   </tr>
 </table>
 
