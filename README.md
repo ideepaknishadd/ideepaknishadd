@@ -121,7 +121,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 ### 🏢 Communities Heritage Private Limited, Ahmedabad (08/2023 - 11/2026)
 
-**Jr. Android Developer**
+**Sr. Android Developer**
 
 * **Android 14 Upgrade**: Led the migration of the Myco app to Android 14, ensuring compatibility and optimizing performance.
 * **Architecture Migration**: Helped in transitioning the app architecture from MVC to MVVM.
