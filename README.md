@@ -119,7 +119,7 @@ I harness **Generative AI** tools like **ChatGPT**, **Claude AI**, **DeepSeek**,
 
 ## 💼 Professional Experience
 
-### 🏢 Communities Heritage Private Limited, Ahmedabad (08/2023 - Present)
+### 🏢 Communities Heritage Private Limited, Ahmedabad (08/2023 - 11/2026)
 
 **Jr. Android Developer**
 
